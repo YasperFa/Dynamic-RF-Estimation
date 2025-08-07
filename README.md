@@ -1,8 +1,6 @@
-# Project Title
-
-Rebuild Frequency Estimation and
-Autotuning for Dynamic Containers in
-Particle Simulations
+# Rebuild Frequency Estimation and Autotuning for Dynamic Containers in
+Bachelor Thesis, Summer Semester 2025. 
+Technical University of Munich.
 
 ## Description
 
